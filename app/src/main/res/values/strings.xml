@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">help_module</string>
+
+    <string-array name="settingsName">
+
+        <item>Applications Guidelines</item>
+        <item>FAQS</item>
+        <item>Contact info</item>
+    
+    </string-array>
+    
+</resources>
